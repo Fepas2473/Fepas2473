@@ -1,5 +1,6 @@
 ## SEJA BEM VINDO 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VEM+COM+O+MESTRE!!+-+olha+os+projetos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VEM+COM+O+MESTRE!!+-+olha+os+projetos)](https://git.io/typing-svg)
 <!--
 **Fepas2473/Fepas2473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
